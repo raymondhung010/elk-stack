@@ -4,3 +4,4 @@ https://mmx362003.gitbooks.io/elk-stack-guide/content/config_of_logstash.html
 http://www.mkyong.com/elasticsearch/elasticsearch-hello-world-example/
 https://www.cnblogs.com/liaojiafa/p/6139752.html
 https://github.com/logstash/logstash-logback-encoder
+https://balamaci.ro/java-app-monitoring-with-elk-logstash/
