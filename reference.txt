@@ -5,3 +5,4 @@ http://www.mkyong.com/elasticsearch/elasticsearch-hello-world-example/
 https://www.cnblogs.com/liaojiafa/p/6139752.html
 https://github.com/logstash/logstash-logback-encoder
 https://balamaci.ro/java-app-monitoring-with-elk-logstash/
+https://www.elastic.co/guide/en/logstash/current/plugins-inputs-file.html 
