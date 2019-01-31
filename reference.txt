@@ -2,3 +2,4 @@ https://www.cnblogs.com/jingmoxukong/p/8118791.html
 https://howtodoinjava.com/microservices/elk-stack-tutorial-example/
 https://mmx362003.gitbooks.io/elk-stack-guide/content/config_of_logstash.html
 http://www.mkyong.com/elasticsearch/elasticsearch-hello-world-example/
+https://www.cnblogs.com/liaojiafa/p/6139752.html
